@@ -1,4 +1,4 @@
-# Timere și întreruperi pentru microcontrolerele — 8051 / PIC18F8722
+# Timere pentru microcontrolerele — 8051 / PIC18F8722
 
 ---
 
@@ -15,7 +15,7 @@ Fiecare implementare este însoțită de un proiect **Proteus**, astfel încât 
 ## Structura proiectului
 
 ```text
-Timere-si-intreruperi-pentru-microcontrolerele — 8051-si-PIC18F8722/
+Timere-pentru-microcontrolerele — 8051-si-PIC18F8722/
 │
 ├── README.md
 │
@@ -388,7 +388,7 @@ Each implementation is accompanied by a **Proteus** project, allowing the behavi
 ## Project structure
 
 ```text
-Timere-si-intreruperi-pentru-microcontrolerele — 8051-si-PIC18F8722/
+Timere-pentru-microcontrolerele — 8051-si-PIC18F8722/
 │
 ├── README.md
 │
